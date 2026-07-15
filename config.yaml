@@ -1,0 +1,9 @@
+patterns:
+  - "pat1"
+  - "pat2"
+
+# servers:
+#   - host: "127.0.0.1"
+#     port: 8080
+#   - host: "192.168.1.10"
+#     port: 9000
